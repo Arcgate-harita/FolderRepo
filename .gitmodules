@@ -1,3 +1,6 @@
 [submodule "HTML-CSS-TASK"]
 	path = HTML-CSS-TASK
 	url = https://github.com/Arcgate-harita/HTML-CSS-TASK.git
+[submodule "Quiz-App"]
+	path = Quiz-App
+	url = https://github.com/Arcgate-harita/Quiz-App.git
